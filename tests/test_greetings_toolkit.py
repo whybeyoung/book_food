@@ -1,7 +1,7 @@
 import unittest
 
-from artifacts_docker_tool import GreetingsTool
-from docker_toolkit import IflytekArtifactoryToolkit
+from book_tool import GreetingsTool
+from book_tookit import IflytekArtifactoryToolkit
 
 
 class GreetingsToolkitTests(unittest.TestCase):
